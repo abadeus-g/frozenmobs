@@ -29,6 +29,7 @@
 .pub-cache/
 .pub/
 build/
+*.freezed.dart
 
 # Android related
 **/android/**/gradle-wrapper.jar
